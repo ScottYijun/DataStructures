@@ -8,4 +8,5 @@ SOURCES += \
 #    example02.c \
 #    example03.c \
 #    example04.c \
-    example05.c
+#    example05.c \
+    example06.c
