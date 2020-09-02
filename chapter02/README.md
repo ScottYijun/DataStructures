@@ -83,4 +83,4 @@
 
 ![image](https://github.com/ScottYijun/DataStructures/blob/master/chapter02/joseph.png)
 
-![image](https://github.com/ScottYijun/DataStructures/blob/master/chapter01/example2.png)
+
