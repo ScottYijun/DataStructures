@@ -57,6 +57,7 @@
 
 ![image](https://github.com/ScottYijun/DataStructures/blob/master/chapter02/sequenceTable.png)
 
+
 2.线性表的链式存储——单链表的实现
 【问题描述】
 对于线性表还可以采用链式存储结构，在这里通过单链表的基本运算来实现介绍线性
