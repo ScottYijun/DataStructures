@@ -5,5 +5,5 @@ CONFIG -= qt
 
 SOURCES += \
     joseph.c \
-#    listTable.c \
-#    sequenceTable.c
+    listTable.c \
+    sequenceTable.c
